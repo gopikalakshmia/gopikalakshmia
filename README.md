@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Gopikalakshmi</h1>
 <h3 align="center">A passionate FullStack developer</h3>
 
-- 🔭 I’m currently working on 100-project challenge in both React and Angular framework [https://github.com/stars/gopikalakshmia/lists/100-project-challenge]
+- 🔭 I’m currently working on 100-project challenge in both React and Angular framework [https://github.com/gopikalakshmia/100-project-challenge](https://github.com/stars/gopikalakshmia/lists/100-project-challenge)
 
 - 🌱 I’m enhancing my skills in **React and Angular**
 
