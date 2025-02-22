@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [100-project challenge in both React and Angular framework](https://github.com/gopikalakshmia/TODOAPP-ANGULAR)
 
-- 🌱 I’m currently learning **React and Angular**
+- 🌱 I’m enhancing my skills in **React and Angular**
 
 - 👨‍💻 All of my projects are available at [https://gopikalakshmi.web.app/](https://gopikalakshmi.web.app/)
 
